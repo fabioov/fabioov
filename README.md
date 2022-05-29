@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @fabioov;
+- 👀 I’m interested in Java, JS and languages do develop apps, DBs and Cloud;
+- 🌱 I’m currently learning Java, JS and AWS;
+- 💞️ I’m looking to collaborate on Java, JS and AWS jobs;
+- 📫 You can reach me on Instagram @fabioov and Linkedin (https://www.linkedin.com/in/fabio-santos-91670733/);
