@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fabioov;
 - 🌱 I’m currently learning Java, JS and AWS;
 - 💞️ I’m looking to collaborate on Java, JS and AWS jobs;
-- 📫 You can reach me on Instagram @fabioov and Linkedin (https://www.linkedin.com/in/fabio-santos-91670733/);
+- 📫 You can reach me on 👉 https://linktr.ee/fabioov
 - <img width="47%" src="https://github-readme-stats.vercel.app/api?username=fabioov&show_icons=true&theme=radical" />
 - Interested in: 
 - <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
